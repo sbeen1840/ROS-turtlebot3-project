@@ -34,7 +34,7 @@ Take a look at this simple diagram illustrating three important nodes and the to
 </p>
 
 
-⚠️⚠️ If you don't follow the correct execution order of the nodes may lead to errors. ⚠️⚠️
+⚠️⚠️ If you don't follow the correct execution order of the nodes, you could see errors. ⚠️⚠️
 
 ---
 
