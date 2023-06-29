@@ -36,8 +36,10 @@ Take a look at this simple diagram illustrating three important nodes and the to
 </p>
 
 
-⚠️⚠️ If you don't follow the correct execution order of the nodes, you could see errors. 
-⚠️⚠️ The Raspberry Pi on the TurtleBot should have the "raspicam_node" package and "turtlebot3_bringup" package installed.
+## ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️ 
+If you don't follow the correct execution order of the nodes, you could see errors. 
+
+The Raspberry Pi on the TurtleBot should have the "raspicam_node" package and "turtlebot3_bringup" package installed.
 
 ---
 
