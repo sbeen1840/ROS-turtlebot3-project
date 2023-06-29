@@ -1,10 +1,3 @@
-# ROS-turtlebot3-project
-2023 지능로봇실습, 터틀봇3 파이널 프로젝트
-
-
-https://studio.youtube.com/video/QZNm-e-1x_o/edit
-
-https://www.youtube.com/watch?v=5jZof51nL0c
 
 https://github.com/sbeen1840/ROS-turtlebot3-project/assets/108644811/0ca45621-06e3-47cd-91da-28485cdde2d1
 
