@@ -1,0 +1,3 @@
+<launch>
+    <node name="maze_escape_node" pkg="maze_escape" type="maze_escape.py" />
+</launch>

@@ -1,0 +1,6 @@
+
+<launch>
+  <node pkg="turtlebot3_example" type="turtlebot3_obstacle_direction" name="turtlebot3_obstacle_direction" output="screen">
+  </node>
+</launch>
+
